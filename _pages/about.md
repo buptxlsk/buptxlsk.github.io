@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,4 +14,4 @@ I'm a third year undergraduate student from [School of AI](https://ai.bupt.edu.c
 You can find my CV here: [TianXinghan's Curriculum Vitae](../assets/resume.pdf).
 
 [Email](tianxinghan@bupt.edu.cn) / [Github](https://github.com/buptxlsk) / [Wechat](../images/wechat.jpg) / [Feishu](../images/feishu.jpg)
-————————————————
+
