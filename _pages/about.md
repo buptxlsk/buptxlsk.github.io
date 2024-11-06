@@ -13,5 +13,5 @@ I'm a third year undergraduate student from [School of AI](https://ai.bupt.edu.c
 
 You can find my CV here: [TianXinghan's Curriculum Vitae](../assets/resume.pdf).
 
-[Email:tianxinghan@bupt.edu.cn]] / [Github](https://github.com/buptxlsk) / [Wechat](../images/wechat.jpg) / [Feishu](../images/feishu.jpg)
+Email:tianxinghan@bupt.edu.cn / [Github](https://github.com/buptxlsk) / [Wechat](../images/wechat.jpg) / [Feishu](../images/feishu.jpg)
 
